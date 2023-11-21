@@ -1,0 +1,14 @@
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\bin\Debug\net7.0\IO TPL.exe
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\bin\Debug\net7.0\IO TPL.deps.json
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\bin\Debug\net7.0\IO TPL.runtimeconfig.json
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\bin\Debug\net7.0\IO TPL.dll
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\bin\Debug\net7.0\IO TPL.pdb
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\IO TPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\IO TPL.AssemblyInfoInputs.cache
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\IO TPL.AssemblyInfo.cs
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\IO TPL.csproj.CoreCompileInputs.cache
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\IO TPL.dll
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\refint\IO TPL.dll
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\IO TPL.pdb
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\IO TPL.genruntimeconfig.cache
+C:\Users\Влад и Аня\Desktop\C# course\File-I-O-operations-with-TPL\IO TPL\obj\Debug\net7.0\ref\IO TPL.dll
